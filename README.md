@@ -4,7 +4,6 @@ Hey! I'm Veer 👋
 This repository contains the two C++ projects I built during my internship at **CodeAlpha**. This experience helped me grow my understanding of core C++ programming, logic-building, and problem-solving.
 
 ## 💼 Internship Domain: C++ Programming  
-**Duration:** [Insert duration, e.g., 1 month]  
 **Platform:** CodeAlpha
 
 ---
